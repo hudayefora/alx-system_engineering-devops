@@ -1,1 +1,2 @@
-my readme file
+#!/bin/bash
+my readme file on alx
